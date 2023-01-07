@@ -98,7 +98,7 @@ html {
 }
 
 .background {
-    background: rgba(0, 0, 0, 0.7) url(./images/city.jpg);
+    background: rgba(0, 0, 0, 0.7) url(city.jpg);
     background-size: cover;
     background-blend-mode: darken;
     align-items: center;
