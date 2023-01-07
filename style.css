@@ -167,6 +167,10 @@ p {
     width: 80%;
     padding: 10px;
 }
+.firsthalf button a{
+    text-decoration:none;
+    color:white;
+}
 
 .secondhalf {
     margin: 10px;
